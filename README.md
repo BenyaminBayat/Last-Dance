@@ -9,3 +9,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Create a branch
 - Submit a pull request
 and there was such bull shit
+i want a little and nice kir
